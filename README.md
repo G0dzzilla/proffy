@@ -1,3 +1,3 @@
 # proffy
 
-First attempt to ReactJS/React-Native
+First attempt to node.js ReactJS and React-Native.
