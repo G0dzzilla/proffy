@@ -1,0 +1,21 @@
+DS_Store
+node_modules
+server/DS_Store
+server/node_modules
+web/DS_Store
+web/node_modules
+
+mobile/node_modules/**/*
+mobile/.expo/*
+mobile/npm-debug.*
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+mobile/*.orig.*
+mobile/web-build/
+mobile/
+mobile/# macOS
+mobile/.DS_Store
+mobile/node_modules
